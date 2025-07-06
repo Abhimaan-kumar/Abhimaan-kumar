@@ -1,6 +1,6 @@
 -Hi there 👋
 -👤 I am Abhimaan Kumar
--🎓 I am 2nd yaer Engineering Student of Central University of Jharkhand
+-🎓 I am 4th yaer Engineering Student of Central University of Jharkhand
 -🌏 Exploring the techincal world
 -🧑‍💻 keen intrest to develop some unique Tech
 -🔭 I’m currently working on App and Web Development
